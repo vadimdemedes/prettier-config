@@ -9,6 +9,9 @@
 		"url": "https://github.com/vadimdemedes"
 	},
 	"main": "index.json",
+	"files": [
+		"index.json"
+	],
 	"license": "ISC",
 	"devDependencies": {
 		"prettier": "^2.0.5"
