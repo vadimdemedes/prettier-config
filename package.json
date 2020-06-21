@@ -1,0 +1,17 @@
+{
+	"name": "@vdemedes/prettier-config",
+	"version": "0.0.0",
+	"description": "Shared Prettier config for my projects",
+	"repository": "vadimdemedes/prettier-config",
+	"author": {
+		"name": "vdemedes",
+		"email": "vdemedes@gmail.com",
+		"url": "https://github.com/vadimdemedes"
+	},
+	"main": "index.json",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.0.5"
+	},
+	"prettier": "./index.json"
+}
