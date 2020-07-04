@@ -1,6 +1,6 @@
 {
 	"name": "@vdemedes/prettier-config",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Shared Prettier config for my projects",
 	"repository": "vadimdemedes/prettier-config",
 	"author": {
